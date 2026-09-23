@@ -32,4 +32,4 @@ loan risk profiles, and monthly transaction trends
 - `Banking Dashboard.png` — Final Power BI dashboard image
 
 ## Dashboard Preview
-![Banking Dashboard](Banking Dashboard.png)
+![Banking Dashboard](Banking_Dashboard.png)
