@@ -29,7 +29,7 @@ loan risk profiles, and monthly transaction trends
 ## Files
 - `Banking_Dataset.xlsx` — Customer and transaction data (2 sheets)
 - `SQL_Queries.sql` — All 7 queries with comments
-- `Dashboard_Screenshot.png` — Final Power BI dashboard image
+- `Banking Dashboard.png` — Final Power BI dashboard image
 
 ## Dashboard Preview
-[Add your dashboard screenshot here]
+![Banking Dashboard](Banking Dashboard.png)
