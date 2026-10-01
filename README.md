@@ -18,8 +18,6 @@ and loan risk profiles across 500 customers and 2,000 transactions.
 - Chennai and Lucknow ranked as top locations by transaction volume
 - Car loan customers maintained highest average account balance (₹4.73L)
 - Savings accounts represented 60.6% of the customer portfolio
-- Automatic transmission cars (in salary prediction sub-analysis) 
-  showed highest average resale value
 
 ## SQL Queries Used
 SELECT, GROUP BY, ORDER BY, ROUND, COUNT, AVG, SUM across 
